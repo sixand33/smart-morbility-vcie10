@@ -1,0 +1,31 @@
+PROCESO: ASIGNACI?N DE C?DIGOS CIE-10 2018
+Registros recorridos: 12958
+T?rminos a codificar: 18915
+T?rminos codificados: 17419
+Tasa bruta de asignaci?n: 92.090933121861%
+8.051517
+PROCESO: IDENTIFICACION DE REGISTROS RECHAZADOS
+Registros rechazados identificados: 1261
+8.052752
+PROCESO: IDENTIFICACION DE CAUSAS EXTERNAS
+Identificados en Icd1: 5
+Identificados en Icd2: 4
+Identificados en Icd4: 490
+8.079453
+PROCESO: IDENTIFICACION DE TRAUMATISMOS Y FRACTURAS
+Identificados en Icd1: 402
+Identificados en Icd2: 67
+Identificados en Icd3: 36
+Identificados en Icd4: 7
+8.099792
+PROCESO: RECODIFICACION PARAMETRIZADA
+Registros con asignaci?n completa identificados: 11697
+Registros rechazados post-validaci?n: 122
+Registros para la aplicaci?n de reglas: 11575
+8.799395
+PROCESO: REGLAS DE CODIFICACI?N EN MORBILIDAD
+Registros en estado final: 11574
+Tasa bruta de registros codificados: 89.3193394042291%
+Tasa ajustada de registros codificados: 99.9913606911447%
+PROCESO: FIN DEL PROCESAMIENTO
+10.05335
