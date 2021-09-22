@@ -5,6 +5,6 @@ port <- Sys.getenv('PORT')
 
 shiny::runApp(
   appDir = dirname(rstudioapi::getSourceEditorContext()$path),
-  host = '0.0.0.0',
-  port = as.numeric(port)
+  host = '127.0.0.1',
+  port = getOption("shiny.port")
 )
